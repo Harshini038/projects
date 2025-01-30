@@ -1,0 +1,17 @@
+{
+  "votes": {
+    "150": {
+      "candidate": "candidate1",
+      "timestamp": "2025-01-30T18:17:23.646525"
+    },
+    "151": {
+      "candidate": "candidate2",
+      "timestamp": "2025-01-30T18:22:54.664524"
+    }
+  },
+  "vote_count": {
+    "candidate1": 1,
+    "candidate2": 1,
+    "candidate3": 0
+  }
+}
